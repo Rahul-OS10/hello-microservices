@@ -1,0 +1,8 @@
+server:
+  port: 8686 
+  servlet:
+    context-path: /hello
+   
+spring:
+  application:
+    name: hello-microservices
